@@ -8300,6 +8300,7 @@ var white_domains = {"am":{
 "iyy":1,
 "yixin":1
 },"info":{
+"sankuai":1,
 "gmold":1,
 "iyaya":1,
 "lztech":1,
