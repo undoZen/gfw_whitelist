@@ -202,6 +202,7 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"marriott":1,
 "sankuai":1,
 "meituan":1,
 "0-6":1,
